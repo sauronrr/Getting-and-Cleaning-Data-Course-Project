@@ -1,5 +1,17 @@
-      1 subject
-      2 activity
+Unit:
+
+    Acc: m/s²
+    Gyro: rand/s
+columns: Mean values of the mesure in column name, for each suject/activity
+
+      1 subject                      :Experiment subject 1:30
+      2 activity                     :
+                                      1 WALKING 
+                                      2 WALKING_UPSTAIRS 
+                                      3 WALKING_DOWNSTAIRS 
+                                      4 SITTING            
+                                      5 STANDING
+                                      6: LAYING
       3 tBodyAcc-mean()-X
       4 tBodyAcc-mean()-Y
       5 tBodyAcc-mean()-Z
